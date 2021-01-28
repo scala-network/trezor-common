@@ -30,17 +30,17 @@
         "blockchain_link": null
     },
     {
-        "name": "Monero",
-        "shortcut": "XMR",
+        "name": "Scala",
+        "shortcut": "XLA",
         "slip44": 128,
         "curve": "ed25519",
         "decimals": 12,
         "links": {
-            "Homepage": "https://getmonero.org",
-            "Github": "https://github.com/monero-project/monero"
+            "Homepage": "https://getscala.org",
+            "Github": "https://github.com/scala-project/scala"
         },
         "wallet": {
-            "Monero CLI/GUI": "https://www.getmonero.org/downloads/"
+            "Scala CLI/GUI": "https://www.getscala.org/downloads/"
         },
         "blockchain_link": null
     },

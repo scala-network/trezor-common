@@ -8817,16 +8817,16 @@
                 }
             ]
         },
-        "erc20:eth:EXMR": {
+        "erc20:eth:EXLA": {
             "address": "0xc98e0639c6d2EC037A615341c369666B110e80E5",
             "links": {
-                "Github": "https://github.com/eXMRcoin/",
-                "Homepage": "https://exmr.io/"
+                "Github": "https://github.com/eXLAcoin/",
+                "Homepage": "https://exla.io/"
             },
             "marketcap_usd": 0,
-            "name": "eXMRcoin",
+            "name": "eXLAcoin",
             "network": "eth",
-            "shortcut": "EXMR",
+            "shortcut": "EXLA",
             "t1_enabled": "yes",
             "t2_enabled": "yes",
             "type": "erc20",
@@ -29150,21 +29150,21 @@
                 }
             ]
         },
-        "misc:XMR": {
+        "misc:XLA": {
             "links": {
-                "Github": "https://github.com/monero-project/monero",
-                "Homepage": "https://getmonero.org"
+                "Github": "https://github.com/scala-project/scala",
+                "Homepage": "https://getscala.org"
             },
             "marketcap_usd": 1167326221,
-            "name": "Monero",
-            "shortcut": "XMR",
+            "name": "Scala",
+            "shortcut": "XLA",
             "t1_enabled": "no",
             "t2_enabled": "yes",
             "type": "coin",
             "wallet": [
                 {
-                    "name": "Monero CLI/GUI",
-                    "url": "https://www.getmonero.org/downloads/"
+                    "name": "Scala CLI/GUI",
+                    "url": "https://www.getscala.org/downloads/"
                 }
             ]
         },

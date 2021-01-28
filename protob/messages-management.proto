@@ -74,7 +74,7 @@ message Features {
         Capability_EOS = 6;
         Capability_Ethereum = 7;
         Capability_Lisk = 8;
-        Capability_Monero = 9;
+        Capability_Scala = 9;
         Capability_NEM = 10;
         Capability_Ripple = 11;
         Capability_Stellar = 12;
